@@ -19,7 +19,7 @@ public class Practice {
         if (sum > 10) {
             System.out.println("The sum is greater than 10.");
         } else {
-            System.out.println("The sum is 10 or less.");
+            System.out.println("The sum is 10 or less than hhhfhfhf.");
         }
     }
 }
